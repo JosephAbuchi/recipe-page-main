@@ -32,7 +32,8 @@ header img {
   object-fit: contain;
   border-radius: 10px;
 }
-
+main h1 {
+  color: black;}
 main h1,
 h2 {
   font-family: "Young Serif", serif;
