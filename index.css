@@ -33,7 +33,8 @@ header img {
   border-radius: 10px;
 }
 main h1 {
-  color: black;}
+   color: hsl(24, 5%, 18%);
+}
 main h1,
 h2 {
   font-family: "Young Serif", serif;
